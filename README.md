@@ -1,1 +1,3 @@
-# music-card
+# Discord App Music Card
+
+- By Yateesh Reddy & Aryce
