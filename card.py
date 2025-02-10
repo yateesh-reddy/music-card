@@ -1,5 +1,5 @@
 import time
-from pystyle import Colors, Colorate, Write
+from pystyle import Colors, Write
 
 lyrics = """
 Paisa ta sanga, uhmm
